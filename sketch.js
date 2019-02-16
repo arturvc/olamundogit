@@ -29,5 +29,5 @@ function draw() {
   fill(44, 33, 244);
   ellipse(width / 2, height / 2, 30);
   fill(244, 198, 44);
-  text("Olá, Ponto Azul terrestre!", width / 2, height / 2 + 60);
+  text("Olá, Ponto Azul cósmico!", width / 2, height / 2 + 60);
 }
